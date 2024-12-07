@@ -1,0 +1,11 @@
+occupation,age,loan_salary_ratio,outcome
+industrial,39,3.4,default
+industrial,22,4.02,default
+professional,30,2.7,repay
+professional,27,3.32,default
+professional,40,2.04,repay
+professional,50,6.95,default
+industrial,27,3,repay
+industrial,33,2.6,repay
+industrial,30,4.5,default
+professional,45,2.78,repay
